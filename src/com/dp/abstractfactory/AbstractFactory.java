@@ -1,4 +1,4 @@
-package com.dp.abstractFactory;
+package com.dp.abstractfactory;
 
 import java.util.Scanner;
 
@@ -92,7 +92,7 @@ class Application {
 		button.paint();
 	}
 }
-public class AbstractFactoryDemo {
+public class AbstractFactory {
 	public static void main(String args[]) throws Exception {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter windows or mac :");
